@@ -1,5 +1,5 @@
 {
-  "name": "lost-pets",
+  "name":"lost_pets711",
   "private": true,
   "dependencies": {
     "@rails/actioncable": "^6.0.0",
